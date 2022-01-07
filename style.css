@@ -1,5 +1,5 @@
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 h1{
 
@@ -11,6 +11,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 55%;
@@ -29,4 +30,12 @@ section{
 }
 .abcd2{
     background-image: url(hello-repo/abcd2.png);
+}
+p{
+    font-size: 20px;
+    
+}
+.dream big{
+    background-image:url(abcd2.png);
+    background-repeat: no-repeat;
 }
